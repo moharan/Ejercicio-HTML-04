@@ -1,0 +1,21 @@
+body {
+	background-color: purple;
+}
+h2 {
+	color: #666;
+}
+.contenedor{
+	background: #FFF;
+	opacity: 0.9;
+	width: 50%;
+	height: 100%;
+	text-align: left;
+	padding: 20px;
+	margin: auto;
+	border-radius:20px; 
+	-moz-border-radius:10px; /* Firefox */ 
+	-webkit-border-radius:10px; /* Safari y Chrome */ 
+}
+.noactivo {
+	color: #ccc;
+}
